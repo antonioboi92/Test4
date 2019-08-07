@@ -1,0 +1,4 @@
+This script is developed in Python using jupyter notebook.I used python because I think Pandas is a ideal library to manipulate CSV files.
+In the first part of this script,I use Pandas function to order the words in the list and ,after that,I generate a new file CSV.Then,thanks
+to the help of two empty list(a,b),I delete space between words and count the words in the list.In the end,I divide the sum of the letters
+in the list by the number of the words in order to get the average word lenght.
