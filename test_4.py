@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[124]:
-
-
 import pandas as pd
 a=[]
 b=[]
@@ -30,13 +27,13 @@ print("number of the words =",len(b))
 print("aaverage word lenght =",sum/len(b))    
 
 
-# In[ ]:
 
 
 
 
 
-# In[ ]:
+
+
 
 
 
